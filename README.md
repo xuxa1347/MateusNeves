@@ -26,7 +26,7 @@
   <a href="mailto:nevesmateus1347@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
   <a href="https://www.whatsapp.com/+5534992562447"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     
- ![Snake animation](https://github.com/xuxa1347/xuxa147/blob/output/github-contribution-grid-snake.svg)   
+ ![Snake animation](https://github.com/MateusNeves/MateusNeves/blob/output/github-contribution-grid-snake.svg)   
    
 </div>    
   
